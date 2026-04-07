@@ -5,7 +5,7 @@ I make cool stuff.
 - 🧑‍🏭 I’m currently a student.
 - 🗨️ I’m currently learning Autodesk Fusion (3D CAD).
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chong-hwa-yong-5a0006359/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-- 😄 Pronouns: they/them
+- 😄 Pronouns: he/him
 
 ## My GitHub Stats
 
